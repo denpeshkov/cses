@@ -7,5 +7,9 @@ name = "missing-number"
 version = "0.1.0"
 
 [[package]]
+name = "repetitions"
+version = "0.1.0"
+
+[[package]]
 name = "weird-algorithm"
 version = "0.1.0"
