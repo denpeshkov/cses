@@ -23,5 +23,9 @@ name = "repetitions"
 version = "0.1.0"
 
 [[package]]
+name = "two-sets"
+version = "0.1.0"
+
+[[package]]
 name = "weird-algorithm"
 version = "0.1.0"
