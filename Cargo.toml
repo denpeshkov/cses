@@ -1,3 +1,3 @@
 [workspace]
 resolver = "3"
-members = ["increasing-array","missing-number", "permutations", "repetitions", "weird-algorithm"]
+members = ["increasing-array","missing-number", "number-spiral", "permutations", "repetitions", "weird-algorithm"]
