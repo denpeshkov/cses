@@ -19,6 +19,10 @@ name = "number-spiral"
 version = "0.1.0"
 
 [[package]]
+name = "palindrome-reorder"
+version = "0.1.0"
+
+[[package]]
 name = "permutations"
 version = "0.1.0"
 
