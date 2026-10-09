@@ -7,6 +7,10 @@ name = "bit-strings"
 version = "0.1.0"
 
 [[package]]
+name = "gray-code"
+version = "0.1.0"
+
+[[package]]
 name = "increasing-array"
 version = "0.1.0"
 
