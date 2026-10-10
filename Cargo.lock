@@ -11,6 +11,10 @@ name = "bit-strings"
 version = "0.1.0"
 
 [[package]]
+name = "chessboard-and-queens"
+version = "0.1.0"
+
+[[package]]
 name = "creating-strings"
 version = "0.1.0"
 
