@@ -1,3 +1,3 @@
 [workspace]
 resolver = "3"
-members = ["bit-strings", "creating-strings", "gray-code","increasing-array","missing-number", "number-spiral", "palindrome-reorder", "permutations", "repetitions", "two-sets", "weird-algorithm"]
+members = ["apple-division","bit-strings", "creating-strings", "gray-code","increasing-array","missing-number", "number-spiral", "palindrome-reorder", "permutations", "repetitions", "two-sets", "weird-algorithm"]
