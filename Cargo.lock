@@ -63,6 +63,10 @@ name = "repetitions"
 version = "0.1.0"
 
 [[package]]
+name = "restaurant-customers"
+version = "0.1.0"
+
+[[package]]
 name = "two-sets"
 version = "0.1.0"
 
