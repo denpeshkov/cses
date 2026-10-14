@@ -19,6 +19,10 @@ name = "chessboard-and-queens"
 version = "0.1.0"
 
 [[package]]
+name = "collecting-numbers"
+version = "0.1.0"
+
+[[package]]
 name = "concert-tickets"
 version = "0.1.0"
 

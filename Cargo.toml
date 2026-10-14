@@ -5,6 +5,7 @@ members = [
   "apple-division",
   "bit-strings",
   "chessboard-and-queens",
+  "collecting-numbers",
   "concert-tickets",
   "creating-strings",
   "distinct-numbers",
