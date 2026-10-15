@@ -19,6 +19,7 @@ members = [
   "number-spiral",
   "palindrome-reorder",
   "permutations",
+  "playlist",
   "repetitions",
   "restaurant-customers",
   "stick-lengths",
