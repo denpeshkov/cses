@@ -23,7 +23,9 @@ members = [
   "repetitions",
   "restaurant-customers",
   "stick-lengths",
-  "sum-of-two-values", "towers",
+  "sum-of-two-values",
+  "towers",
+  "traffic-lights",
   "two-sets",
   "weird-algorithm",
 ]
