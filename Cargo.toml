@@ -9,6 +9,7 @@ members = [
   "concert-tickets",
   "creating-strings",
   "distinct-numbers",
+  "distinct-values-subarrays",
   "ferris-wheel",
   "gray-code",
   "increasing-array",
