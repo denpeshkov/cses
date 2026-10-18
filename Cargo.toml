@@ -18,6 +18,7 @@ members = [
   "missing-coin-sum",
   "missing-number",
   "movie-festival",
+  "nested-ranges-check",
   "number-spiral",
   "palindrome-reorder",
   "permutations",
