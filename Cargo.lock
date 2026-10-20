@@ -75,6 +75,10 @@ name = "nested-ranges-check"
 version = "0.1.0"
 
 [[package]]
+name = "nested-ranges-count"
+version = "0.1.0"
+
+[[package]]
 name = "number-spiral"
 version = "0.1.0"
 

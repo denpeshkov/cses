@@ -19,6 +19,7 @@ members = [
   "missing-number",
   "movie-festival",
   "nested-ranges-check",
+  "nested-ranges-count",
   "number-spiral",
   "palindrome-reorder",
   "permutations",
@@ -32,3 +33,6 @@ members = [
   "two-sets",
   "weird-algorithm",
 ]
+
+[workspace.package]
+edition = "2021"
