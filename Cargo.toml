@@ -25,6 +25,7 @@ members = [
   "palindrome-reorder",
   "permutations",
   "playlist",
+  "reading-books",
   "repetitions",
   "restaurant-customers",
   "room-allocation",
