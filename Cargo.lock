@@ -103,6 +103,10 @@ name = "restaurant-customers"
 version = "0.1.0"
 
 [[package]]
+name = "room-allocation"
+version = "0.1.0"
+
+[[package]]
 name = "stick-lengths"
 version = "0.1.0"
 

@@ -26,6 +26,7 @@ members = [
   "playlist",
   "repetitions",
   "restaurant-customers",
+  "room-allocation",
   "stick-lengths",
   "sum-of-two-values",
   "towers",
