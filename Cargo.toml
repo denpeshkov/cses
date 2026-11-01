@@ -30,6 +30,7 @@ members = [
   "room-allocation",
   "stick-lengths",
   "sum-of-two-values",
+  "tasks-and-deadlines",
   "towers",
   "traffic-lights",
   "two-sets",
