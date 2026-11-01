@@ -11,6 +11,7 @@ members = [
   "distinct-numbers",
   "distinct-values-subarrays",
   "distinct-values-subsequences",
+  "factoty-machines",
   "ferris-wheel",
   "gray-code",
   "increasing-array",
