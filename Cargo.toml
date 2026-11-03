@@ -30,6 +30,7 @@ members = [
   "restaurant-customers",
   "room-allocation",
   "stick-lengths",
+  "sum-of-three-values",
   "sum-of-two-values",
   "tasks-and-deadlines",
   "towers",

@@ -119,6 +119,10 @@ name = "stick-lengths"
 version = "0.1.0"
 
 [[package]]
+name = "sum-of-three-values"
+version = "0.1.0"
+
+[[package]]
 name = "sum-of-two-values"
 version = "0.1.0"
 
