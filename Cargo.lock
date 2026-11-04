@@ -75,6 +75,10 @@ name = "movie-festival"
 version = "0.1.0"
 
 [[package]]
+name = "nearest-smaller-value"
+version = "0.1.0"
+
+[[package]]
 name = "nested-ranges-check"
 version = "0.1.0"
 
