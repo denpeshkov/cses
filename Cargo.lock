@@ -127,6 +127,10 @@ name = "subarray-sums-1"
 version = "0.1.0"
 
 [[package]]
+name = "subarray-sums-2"
+version = "0.1.0"
+
+[[package]]
 name = "sum-of-three-values"
 version = "0.1.0"
 

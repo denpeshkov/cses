@@ -32,6 +32,7 @@ members = [
   "room-allocation",
   "stick-lengths",
   "subarray-sums-1",
+  "subarray-sums-2",
   "sum-of-three-values",
   "sum-of-two-values",
   "tasks-and-deadlines",
