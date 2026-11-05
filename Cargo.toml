@@ -3,6 +3,7 @@ resolver = "3"
 members = [
   "apartments",
   "apple-division",
+  "array-division",
   "bit-strings",
   "chessboard-and-queens",
   "collecting-numbers",
