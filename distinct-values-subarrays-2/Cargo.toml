@@ -1,0 +1,6 @@
+[package]
+name = "distinct-values-subarrays-2"
+version = "0.1.0"
+edition.workspace = true
+
+[dependencies]

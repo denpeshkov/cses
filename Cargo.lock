@@ -39,6 +39,10 @@ name = "distinct-values-subarrays"
 version = "0.1.0"
 
 [[package]]
+name = "distinct-values-subarrays-2"
+version = "0.1.0"
+
+[[package]]
 name = "distinct-values-subsequences"
 version = "0.1.0"
 
