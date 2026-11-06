@@ -21,6 +21,7 @@ members = [
   "missing-coin-sum",
   "missing-number",
   "movie-festival",
+  "movie-festival-2",
   "nearest-smaller-value",
   "nested-ranges-check",
   "nested-ranges-count",
