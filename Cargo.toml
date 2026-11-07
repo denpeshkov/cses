@@ -9,6 +9,7 @@ members = [
   "collecting-numbers",
   "concert-tickets",
   "creating-strings",
+  "dice-combinations",
   "distinct-numbers",
   "distinct-values-subarrays",
   "distinct-values-subarrays-2",

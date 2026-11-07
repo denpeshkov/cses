@@ -35,6 +35,10 @@ name = "creating-strings"
 version = "0.1.0"
 
 [[package]]
+name = "dice-combinations"
+version = "0.1.0"
+
+[[package]]
 name = "distinct-numbers"
 version = "0.1.0"
 
