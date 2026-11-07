@@ -18,6 +18,7 @@ members = [
   "gray-code",
   "increasing-array",
   "maximum-subarray-sum",
+  "maximum-subarray-sum-2",
   "missing-coin-sum",
   "missing-number",
   "movie-festival",
