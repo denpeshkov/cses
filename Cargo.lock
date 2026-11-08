@@ -79,6 +79,10 @@ name = "maximum-subarray-sum-2"
 version = "0.1.0"
 
 [[package]]
+name = "minimizing-coins"
+version = "0.1.0"
+
+[[package]]
 name = "missing-coin-sum"
 version = "0.1.0"
 

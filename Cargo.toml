@@ -20,6 +20,7 @@ members = [
   "increasing-array",
   "maximum-subarray-sum",
   "maximum-subarray-sum-2",
+  "minimizing-coins",
   "missing-coin-sum",
   "missing-number",
   "movie-festival",
