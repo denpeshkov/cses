@@ -7,6 +7,7 @@ members = [
   "bit-strings",
   "chessboard-and-queens",
   "coin-combinations-1",
+  "coin-combinations-2",
   "collecting-numbers",
   "concert-tickets",
   "creating-strings",

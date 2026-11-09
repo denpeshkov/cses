@@ -27,6 +27,10 @@ name = "coin-combinations-1"
 version = "0.1.0"
 
 [[package]]
+name = "coin-combinations-2"
+version = "0.1.0"
+
+[[package]]
 name = "collecting-numbers"
 version = "0.1.0"
 
