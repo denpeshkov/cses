@@ -35,6 +35,7 @@ members = [
   "permutations",
   "playlist",
   "reading-books",
+  "removing-digits",
   "repetitions",
   "restaurant-customers",
   "room-allocation",

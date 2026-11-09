@@ -139,6 +139,10 @@ name = "reading-books"
 version = "0.1.0"
 
 [[package]]
+name = "removing-digits"
+version = "0.1.0"
+
+[[package]]
 name = "repetitions"
 version = "0.1.0"
 
