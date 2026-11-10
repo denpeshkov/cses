@@ -19,6 +19,10 @@ name = "bit-strings"
 version = "0.1.0"
 
 [[package]]
+name = "book-shop"
+version = "0.1.0"
+
+[[package]]
 name = "chessboard-and-queens"
 version = "0.1.0"
 

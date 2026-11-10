@@ -5,6 +5,7 @@ members = [
   "apple-division",
   "array-division",
   "bit-strings",
+  "book-shop",
   "chessboard-and-queens",
   "coin-combinations-1",
   "coin-combinations-2",
