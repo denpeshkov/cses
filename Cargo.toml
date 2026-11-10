@@ -19,6 +19,7 @@ members = [
   "factoty-machines",
   "ferris-wheel",
   "gray-code",
+  "grid-paths-1",
   "increasing-array",
   "maximum-subarray-sum",
   "maximum-subarray-sum-2",
