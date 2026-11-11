@@ -11,6 +11,10 @@ name = "apple-division"
 version = "0.1.0"
 
 [[package]]
+name = "array-description"
+version = "0.1.0"
+
+[[package]]
 name = "array-division"
 version = "0.1.0"
 
