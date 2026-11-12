@@ -75,6 +75,10 @@ name = "distinct-values-subsequences"
 version = "0.1.0"
 
 [[package]]
+name = "edit-distance"
+version = "0.1.0"
+
+[[package]]
 name = "factoty-machines"
 version = "0.1.0"
 
