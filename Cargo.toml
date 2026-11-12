@@ -12,6 +12,7 @@ members = [
   "coin-combinations-2",
   "collecting-numbers",
   "concert-tickets",
+  "counting-towers",
   "creating-strings",
   "dice-combinations",
   "distinct-numbers",
