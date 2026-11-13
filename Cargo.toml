@@ -25,6 +25,7 @@ members = [
   "gray-code",
   "grid-paths-1",
   "increasing-array",
+  "longest-common-subsequence",
   "maximum-subarray-sum",
   "maximum-subarray-sum-2",
   "minimizing-coins",

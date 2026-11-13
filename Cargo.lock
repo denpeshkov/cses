@@ -99,6 +99,10 @@ name = "increasing-array"
 version = "0.1.0"
 
 [[package]]
+name = "longest-common-subsequence"
+version = "0.1.0"
+
+[[package]]
 name = "maximum-subarray-sum"
 version = "0.1.0"
 
