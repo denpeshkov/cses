@@ -41,6 +41,7 @@ members = [
   "permutations",
   "playlist",
   "reading-books",
+  "rectangle-cutting",
   "removing-digits",
   "repetitions",
   "restaurant-customers",
