@@ -171,6 +171,10 @@ name = "rectangle-cutting"
 version = "0.1.0"
 
 [[package]]
+name = "removal-game"
+version = "0.1.0"
+
+[[package]]
 name = "removing-digits"
 version = "0.1.0"
 

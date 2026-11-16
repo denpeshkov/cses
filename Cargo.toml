@@ -43,6 +43,7 @@ members = [
   "playlist",
   "reading-books",
   "rectangle-cutting",
+  "removal-game",
   "removing-digits",
   "repetitions",
   "restaurant-customers",
