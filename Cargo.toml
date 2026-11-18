@@ -42,6 +42,7 @@ members = [
   "palindrome-reorder",
   "permutations",
   "playlist",
+  "projects",
   "reading-books",
   "rectangle-cutting",
   "removal-game",

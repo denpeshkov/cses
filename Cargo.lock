@@ -167,6 +167,10 @@ name = "playlist"
 version = "0.1.0"
 
 [[package]]
+name = "projects"
+version = "0.1.0"
+
+[[package]]
 name = "reading-books"
 version = "0.1.0"
 
