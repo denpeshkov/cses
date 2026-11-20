@@ -20,6 +20,7 @@ members = [
   "distinct-values-subarrays-2",
   "distinct-values-subsequences",
   "edit-distance",
+  "elevator-rides",
   "factoty-machines",
   "ferris-wheel",
   "gray-code",

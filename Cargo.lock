@@ -79,6 +79,10 @@ name = "edit-distance"
 version = "0.1.0"
 
 [[package]]
+name = "elevator-rides"
+version = "0.1.0"
+
+[[package]]
 name = "factoty-machines"
 version = "0.1.0"
 
