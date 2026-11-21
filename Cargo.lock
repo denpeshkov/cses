@@ -111,6 +111,10 @@ name = "increasing-subsequence"
 version = "0.1.0"
 
 [[package]]
+name = "labyrinth"
+version = "0.1.0"
+
+[[package]]
 name = "longest-common-subsequence"
 version = "0.1.0"
 

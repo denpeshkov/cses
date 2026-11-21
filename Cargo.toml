@@ -28,6 +28,7 @@ members = [
   "grid-paths-1",
   "increasing-array",
   "increasing-subsequence",
+  "labyrinth",
   "longest-common-subsequence",
   "maximum-subarray-sum",
   "maximum-subarray-sum-2",
