@@ -31,6 +31,10 @@ name = "building-roads"
 version = "0.1.0"
 
 [[package]]
+name = "building-teams"
+version = "0.1.0"
+
+[[package]]
 name = "chessboard-and-queens"
 version = "0.1.0"
 
