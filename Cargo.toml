@@ -33,6 +33,7 @@ members = [
   "longest-common-subsequence",
   "maximum-subarray-sum",
   "maximum-subarray-sum-2",
+  "message-route",
   "minimizing-coins",
   "missing-coin-sum",
   "missing-number",
