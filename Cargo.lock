@@ -155,6 +155,10 @@ name = "money-sums"
 version = "0.1.0"
 
 [[package]]
+name = "monsters"
+version = "0.1.0"
+
+[[package]]
 name = "movie-festival"
 version = "0.1.0"
 

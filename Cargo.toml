@@ -39,6 +39,7 @@ members = [
   "missing-coin-sum",
   "missing-number",
   "money-sums",
+  "monsters",
   "movie-festival",
   "movie-festival-2",
   "nearest-smaller-value",
