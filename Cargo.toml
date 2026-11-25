@@ -16,6 +16,7 @@ members = [
   "concert-tickets",
   "counting-rooms",
   "counting-towers",
+  "course-schedule",
   "creating-strings",
   "dice-combinations",
   "distinct-numbers",
