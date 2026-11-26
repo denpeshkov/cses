@@ -27,6 +27,7 @@ members = [
   "elevator-rides",
   "factoty-machines",
   "ferris-wheel",
+  "flight-routes-check",
   "gray-code",
   "grid-paths-1",
   "increasing-array",
