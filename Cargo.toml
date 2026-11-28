@@ -49,7 +49,7 @@ members = [
   "nested-ranges-count",
   "number-spiral",
   "palindrome-reorder",
-  "permutations",
+  "permutations", "planets-and-kingdoms",
   "playlist",
   "projects",
   "reading-books",

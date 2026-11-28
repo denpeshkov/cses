@@ -199,6 +199,10 @@ name = "permutations"
 version = "0.1.0"
 
 [[package]]
+name = "planets-and-kingdoms"
+version = "0.1.0"
+
+[[package]]
 name = "playlist"
 version = "0.1.0"
 
